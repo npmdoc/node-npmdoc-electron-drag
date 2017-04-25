@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "api documentation for [electron-drag (v1.2.0)](https://github.com/kapetan/electron-drag) [![npm package](https://img.shields.io/npm/v/npmdoc-electron-drag.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-electron-drag) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-electron-drag.svg)](https://travis-ci.org/npmdoc/node-npmdoc-electron-drag)",
+    "description": "#### basic api documentation for  [electron-drag (v1.2.0)](https://github.com/kapetan/electron-drag)  [![npm package](https://img.shields.io/npm/v/npmdoc-electron-drag.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-electron-drag) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-electron-drag.svg)](https://travis-ci.org/npmdoc/node-npmdoc-electron-drag)",
     "devDependencies": {
         "electron-drag": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
@@ -35,5 +35,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "2017.4.25"
 }

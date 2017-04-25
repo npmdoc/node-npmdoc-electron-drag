@@ -1,4 +1,7 @@
-# api documentation for  [electron-drag (v1.2.0)](https://github.com/kapetan/electron-drag)  [![npm package](https://img.shields.io/npm/v/npmdoc-electron-drag.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-electron-drag) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-electron-drag.svg)](https://travis-ci.org/npmdoc/node-npmdoc-electron-drag)
+# npmdoc-electron-drag
+
+#### basic api documentation for  [electron-drag (v1.2.0)](https://github.com/kapetan/electron-drag)  [![npm package](https://img.shields.io/npm/v/npmdoc-electron-drag.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-electron-drag) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-electron-drag.svg)](https://travis-ci.org/npmdoc/node-npmdoc-electron-drag)
+
 #### Window dragging for electron applications
 
 [![NPM](https://nodei.co/npm/electron-drag.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/electron-drag)
@@ -65,7 +68,8 @@
         "test": "electron test/app.js",
         "test-rebuild": "electron-rebuild"
     },
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "bin": {}
 }
 ```
 
